@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/github.io/react_portfolio/static/css/main.4dd47afe.css",
+    "main.js": "/github.io/react_portfolio/static/js/main.877877cd.js",
+    "static/js/496.eca39582.chunk.js": "/github.io/react_portfolio/static/js/496.eca39582.chunk.js",
+    "static/media/Avatar.png": "/github.io/react_portfolio/static/media/Avatar.eea60b4460abf2f710d0.png",
+    "static/media/homeicons.svg": "/github.io/react_portfolio/static/media/homeicons.635077bdda0ab43ae14208bcfda93699.svg",
+    "static/media/ecart.png": "/github.io/react_portfolio/static/media/ecart.438d5ee591bc137e102b.png",
+    "static/media/Portfolio.png": "/github.io/react_portfolio/static/media/Portfolio.4009bce3ac395244194e.png",
+    "static/media/Harish1.png": "/github.io/react_portfolio/static/media/Harish1.a6be4f081f358be268ee.png",
+    "static/media/about.png": "/github.io/react_portfolio/static/media/about.0d89b152b9d060142e14.png",
+    "static/media/PrivateChat.png": "/github.io/react_portfolio/static/media/PrivateChat.9de5dd811354e7da0d67.png",
+    "static/media/pre.svg": "/github.io/react_portfolio/static/media/pre.74b00c043f4cea5fb393.svg",
+    "index.html": "/github.io/react_portfolio/index.html",
+    "main.4dd47afe.css.map": "/github.io/react_portfolio/static/css/main.4dd47afe.css.map",
+    "main.877877cd.js.map": "/github.io/react_portfolio/static/js/main.877877cd.js.map",
+    "496.eca39582.chunk.js.map": "/github.io/react_portfolio/static/js/496.eca39582.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4dd47afe.css",
+    "static/js/main.877877cd.js"
+  ]
+}
