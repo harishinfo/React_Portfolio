@@ -36,7 +36,7 @@ function Home() {
                 src={homeIcon}
                 alt="home pic"
                 className="img-fluid"
-                style={{ paddingTop: 50 }}
+                style={{ paddingTop: 50}}
               />
             </Col>
           </Row>

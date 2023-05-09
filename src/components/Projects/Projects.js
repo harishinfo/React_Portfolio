@@ -4,7 +4,7 @@ import ScrollToTop from "../ScrollToTop/ScrollToTop";
 import ProjectCard from "./ProjectCards";
 
 import PrivateChat from "../../Assets/Projects/PrivateChat.png";
-import Portfolio from "../../Assets/Projects/Portfolio.png";
+import Portfolio from "../../Assets/Screenshot (3).png";
 import Ecart from "../../Assets/Projects/ecart.png";
 
 import "./project.css";

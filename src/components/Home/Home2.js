@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/Avatar.png";
+import myImg from "../../Assets/Avator.jpeg";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
@@ -51,7 +51,7 @@ function Home2() {
               <img
                 data-aos="fade-left"
                 src={myImg}
-                className="img-fluid"
+                className="img-fluid Border"
                 alt="avatar"
               />
             </Tilt>

@@ -221,3 +221,6 @@
 .icon-colour {
   color: var(--clr-primary) !important;
 }
+.Border{
+  border-radius: 100%;
+}
