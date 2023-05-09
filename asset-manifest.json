@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/React_Portfolio/static/css/main.5d5df580.css",
-    "main.js": "/React_Portfolio/static/js/main.643b3570.js",
+    "main.css": "/React_Portfolio/static/css/main.4c3caf90.css",
+    "main.js": "/React_Portfolio/static/js/main.ee4c53ba.js",
     "static/js/496.1ebda612.chunk.js": "/React_Portfolio/static/js/496.1ebda612.chunk.js",
-    "static/media/Avatar.png": "/React_Portfolio/static/media/Avatar.eea60b4460abf2f710d0.png",
     "static/media/homeicons.svg": "/React_Portfolio/static/media/homeicons.635077bdda0ab43ae14208bcfda93699.svg",
+    "static/media/Avator.jpeg": "/React_Portfolio/static/media/Avator.1b506ad6d835f21e8c05.jpeg",
     "static/media/ecart.png": "/React_Portfolio/static/media/ecart.438d5ee591bc137e102b.png",
-    "static/media/Portfolio.png": "/React_Portfolio/static/media/Portfolio.4009bce3ac395244194e.png",
     "static/media/Harish1.png": "/React_Portfolio/static/media/Harish1.a6be4f081f358be268ee.png",
+    "static/media/Screenshot (3).png": "/React_Portfolio/static/media/Screenshot (3).52314b77c2213b83cb61.png",
     "static/media/about.png": "/React_Portfolio/static/media/about.0d89b152b9d060142e14.png",
     "static/media/PrivateChat.png": "/React_Portfolio/static/media/PrivateChat.9de5dd811354e7da0d67.png",
     "static/media/pre.svg": "/React_Portfolio/static/media/pre.74b00c043f4cea5fb393.svg",
     "index.html": "/React_Portfolio/index.html",
-    "main.5d5df580.css.map": "/React_Portfolio/static/css/main.5d5df580.css.map",
-    "main.643b3570.js.map": "/React_Portfolio/static/js/main.643b3570.js.map",
+    "main.4c3caf90.css.map": "/React_Portfolio/static/css/main.4c3caf90.css.map",
+    "main.ee4c53ba.js.map": "/React_Portfolio/static/js/main.ee4c53ba.js.map",
     "496.1ebda612.chunk.js.map": "/React_Portfolio/static/js/496.1ebda612.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5d5df580.css",
-    "static/js/main.643b3570.js"
+    "static/css/main.4c3caf90.css",
+    "static/js/main.ee4c53ba.js"
   ]
 }
